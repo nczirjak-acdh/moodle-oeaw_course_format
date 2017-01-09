@@ -4,6 +4,10 @@ CUSTOM Course FORMAT for moodle 3.1 Created By Norbert Czirjak
 
 This course format is based on the Dariahteach design layout.
 
+Dependencies:
+- https://github.com/nczirjak-acdh/moodle-course-custom-menu
+- https://github.com/nczirjak-acdh/moodle-oeaw-theme
+
 Install steps:
 
 1.You need to copy the files to the course/format/oeaw_cf directory
