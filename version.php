@@ -17,7 +17,7 @@
  * Version details
  *
  * @package contribution
- * @copyright 2015 David Herney Bernal - cirano
+ * @copyright 2016 Norbert Czirjak - OEAW ACDH
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

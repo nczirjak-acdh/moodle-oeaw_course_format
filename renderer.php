@@ -17,7 +17,7 @@
  *
  * @since 2.0
  * @package contribution
- * @copyright 2012 David Herney Bernal - cirano
+ * @copyright 2016 Norbert Czirjak - OEAW ACDH
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -25,9 +25,9 @@ defined('MOODLE_INTERNAL') || die();
 require_once($CFG->dirroot.'/course/format/renderer.php');
 
 /**
- * Basic renderer for onetopic format.
+ * Basic renderer for oeaw custom format.
  *
- * @copyright 2012 David Herney Bernal - cirano
+ * @copyright 2016 Norbert Czirjak - OEAW ACDH
  * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class format_oeaw_cf_renderer extends format_section_renderer_base {
@@ -631,9 +631,6 @@ class format_oeaw_cf_renderer extends format_section_renderer_base {
         return $output;
     }
 
-    //ToDo: feature #45
-    /*protected function render_format_oeaw_cf_header (format_oeaw_cf_header $header) {
-        return html_writer::tag('div', 'This is the header');
-    }*/
+
 }
 

@@ -18,7 +18,7 @@
  *
  * @since     2.0
  * @package   format_oeaw_cf
- * @copyright 2012 David Herney Bernal - cirano
+ * @copyright 2016 Norbert Czirjak - OEAW ACDH
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -30,7 +30,7 @@ require_once($CFG->dirroot. '/course/format/lib.php');
  *
  * @since 2.0
  * @package contribution
- * @copyright 2012 David Herney Bernal - cirano
+ * @copyright 2016 Norbert Czirjak - OEAW ACDH
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
